@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+.next/
+.env
+.env.local
+backend/codereviewx.db
+backend/ml/data/repos/
+backend/ml/data/dataset.csv
