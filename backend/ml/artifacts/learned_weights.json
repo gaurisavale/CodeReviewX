@@ -1,0 +1,19 @@
+{
+  "weights": {
+    "complexity": 1.0,
+    "nesting": 8.3,
+    "length": 27.7,
+    "parameters": 5.5,
+    "naming": 7.7,
+    "magic_numbers": 4.5,
+    "documentation": 14.7,
+    "duplication": 1.0,
+    "separation": 5.2,
+    "error_handling": 12.9,
+    "validation": 2.4,
+    "correctness": 13.2,
+    "security": 3.0
+  },
+  "source": "logistic regression on 13 factor scores",
+  "n": 147097
+}

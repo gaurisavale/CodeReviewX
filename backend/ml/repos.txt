@@ -1,0 +1,11 @@
+pallets/flask
+pallets/click
+pallets/jinja
+pallets/werkzeug
+psf/requests
+encode/httpx
+Textualize/rich
+tqdm/tqdm
+scrapy/scrapy
+celery/celery
+python-attrs/attrs
